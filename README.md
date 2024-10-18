@@ -36,7 +36,9 @@ https://elements.getpostman.com/redirect?entityId=39124580-6007ebbb-eafc-40e3-9f
 ## Installation
 
 Clone the repo.
+
 Run pip install -r requirements.txt to install the dependencies.
+
 Run with python app.py.
 
 
